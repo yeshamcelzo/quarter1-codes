@@ -1,0 +1,7 @@
+x = float(input("Hello customers! Please enter the distance in kilometers:"))
+
+y = float(input("Please enter rate per kilometer(₱):"))
+
+total_fee = x * y
+
+print("the total delivery fee: ₱",total_fee) 
